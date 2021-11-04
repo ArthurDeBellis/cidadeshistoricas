@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font: 400 16px 'Open Sans', sans-serif;
+    color:aliceblue;
+}
+
+.app{
+    text-align:center;
+}
+
+.menu-guia{
+    justify-content: right;
+    padding-right: 7%;
+}

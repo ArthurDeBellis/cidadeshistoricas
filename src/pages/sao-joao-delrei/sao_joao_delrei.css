@@ -1,0 +1,103 @@
+.container-page{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
+    /* min-width: 70rem; */
+    background-color: #f7f2ff; /* Cor da caixa de fora */
+}
+
+.titulopag{
+    color: #EBE44B;
+    font-family: 'Open Sans', sans-serif;
+    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    /* text-transform: capitalize; */
+    text-align:  center;
+    /* text-shadow: 1px 1px 1px #000, -1px 1px 1px #000,1px -1px 1px #000,-1px -1px 1px #000; */
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+    color:white;
+    font-size: 4rem;
+    -webkit-text-fill-color: #EBE44B;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+
+    
+}
+
+.subtitulo{
+    color: #EBE44B;
+    font-family: Open Sans;
+    font-weight: 600;
+    font-size: 2rem;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px #000, -1px 1px 1px #000,1px -1px 1px #000,-1px -1px 1px #000;
+    padding-left: 9rem;
+}
+
+.title {
+    color: #EBE44B;
+    font-family: Open Sans;
+    font-weight: 200;
+    font-size: 2rem;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px #000, -1px 1px 1px #000,1px -1px 1px #000,-1px -1px 1px #000;
+    padding-left: 180px;
+  }
+  
+  .title-alt{
+    border-bottom: 1px solid white;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    height: var(--header-height);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black; /* Cor da caixa do subtitulo */
+    border-radius: 0.25rem;
+  }
+
+.paragrafo1{
+    color: #000;
+    font-family: Open Sans;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: justify;
+    display: flex;
+    min-width: 400px;
+    max-width: 600px;
+    align-content: center;
+}
+
+.paragrafo2{
+    color: #000;
+    font-family: Open Sans;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: justify;
+    display: flex;
+    min-width: 400px;
+    max-width: 600px;
+}
+
+.tabela{
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 3rem;
+    display: flex;
+    align-self: center;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.imagens{
+    object-fit: cover;
+}
+
