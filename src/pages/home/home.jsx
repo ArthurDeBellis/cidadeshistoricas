@@ -1,6 +1,6 @@
 import React from 'react'
 import './home.css'
-import OuroPreto from '../../assets/images/OuroPreto/ouro-preto2.jpg'
+import OuroPreto from '../../assets/images/OuroPreto/ouro-preto1.jpg'
 import Congonhas from '../../assets/images/Congonhas/congonhas1.jpg'
 import Diamantina from '../../assets/images//Diamantina/diamantina1.jpg'
 import Mariana from '../../assets/images/Mariana/mariana2.jpg'
