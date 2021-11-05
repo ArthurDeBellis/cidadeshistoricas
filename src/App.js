@@ -34,7 +34,7 @@ function App() {
           <NavDropdown.Item href="/diamantina">Diamantina</NavDropdown.Item>
           <NavDropdown.Item href="/mariana">Mariana</NavDropdown.Item>
           <NavDropdown.Item href="/sabara">Sabará</NavDropdown.Item>
-          <NavDropdown.Item href="/sao-joao-delrei">São João Delrei</NavDropdown.Item>
+          <NavDropdown.Item href="/sao-joao-delrei">São João del Rei</NavDropdown.Item>
         </NavDropdown>
       </Nav>
     </Navbar.Collapse>
