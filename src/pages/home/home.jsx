@@ -112,7 +112,7 @@ const Home = () => {
                 />
                 </a>
                 <Carousel.Caption>
-                  <h3 className='text'>São João Delrei</h3>
+                  <h3 className='text'>São João del Rei</h3>
                 </Carousel.Caption>
               </Carousel.Item>
             </Carousel>
