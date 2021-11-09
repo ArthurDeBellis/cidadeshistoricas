@@ -1,0 +1,31 @@
+import React from "react";
+
+import { AreaSite } from "../styled";
+
+const Mariana = () => {
+    return(
+        <AreaSite>
+            <h1>Mariana</h1>
+
+            <h2>Sobre a cidade</h2>
+
+            <div className="tabela">
+                
+            </div>
+
+            <h2>O que fazer na cidade</h2>
+
+            <div className="tabela">
+                
+            </div>
+
+            <h2>Curiosidades</h2>
+
+            <div className="tabela">
+                
+            </div>
+        </AreaSite>
+    );
+}
+
+export default Mariana;
