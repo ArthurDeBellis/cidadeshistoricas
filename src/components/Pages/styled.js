@@ -69,6 +69,7 @@ export const AreaSite = styled.div`
         }
 
         @media (max-width: 800px){
+            margin: 1rem 1.05rem;
             h1{
                 font-size: xx-large;
             }
