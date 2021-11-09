@@ -12,9 +12,8 @@ export const AreaSite = styled.div`
         padding: 1rem 1rem;    
         font-family: 'Open Sans', sans-serif;   
         font-style: normal;
-        font-weight: 100%;
-        font-size: 80px;
-        font-size: 4rem;
+        font-size: 60px;
+        
         -webkit-text-fill-color: #EBE44B;
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: black;
@@ -70,6 +69,9 @@ export const AreaSite = styled.div`
         }
 
         @media (max-width: 800px){
+            h1{
+                font-size: xx-large;
+            }
             .tabela{
                 display:block;
             }
@@ -81,4 +83,8 @@ export const AreaSite = styled.div`
                     padding: 0;
                 }
         }
+
+        
+            
+       
 `;
