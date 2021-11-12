@@ -6,8 +6,6 @@ export const AreaCarrousel = styled.div`
         font-size: 2.5rem;
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: black;
-    
-        
     }
     .img-responsive{
         padding: 1rem 1rem;
@@ -15,8 +13,10 @@ export const AreaCarrousel = styled.div`
         height:80vh;
     }
 
-
     @media (max-width: 800px){
+        .nome-cidade{
+            font-size: xx-large;
+        }
         .img-responsive{
             height:60vh;
         }

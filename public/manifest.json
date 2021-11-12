@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Cidades Históricas",
+  "name": "Guia de cidades de Minas Gerais",
   "icons": [
     {
       "src": "favicon.ico",

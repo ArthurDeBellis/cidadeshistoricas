@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const AreaSite = styled.div`
     text-align: center;
     min-height: 80vh;
-    margin: 2rem 3rem;
+    margin: 1rem 1.05rem;
     background-color: #f7f2ff;
     position: relative;
     box-sizing: border-box;
@@ -69,7 +69,6 @@ export const AreaSite = styled.div`
         }
 
         @media (max-width: 800px){
-            margin: 1rem 1.05rem;
             h1{
                 font-size: xx-large;
             }
